@@ -17,7 +17,7 @@ async function getDataApi() {
     let url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(
         input.value
 
-      )}&units=metric&appid=e9af4048996d7749043ff01fd9e31b3e`;
+      )}&units=metric&appid=(token)`;
 
     try {
         await fetch(url)

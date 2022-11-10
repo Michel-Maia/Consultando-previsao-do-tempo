@@ -6,7 +6,7 @@
 Desenvolvido para aprendizado. Consulta de previsão do tempo. 
 
 
-[🔗 Clique aqui para acessar] (https://michel-maia.github.io/consultando-previsao-do-tempo/)
+[🔗 Clique aqui para acessar] (https://michel-maia.github.io/Consultando-previsao-do-tempo/)
 
 
 ## 💻 Tecnologias
